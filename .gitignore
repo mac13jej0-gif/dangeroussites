@@ -1,0 +1,62 @@
+# Gradle
+.gradle/
+*/**/.gradle/
+**/build/
+**/captures/
+**/generated/
+
+# Kotlin
+*.iml
+.idea/
+
+# Android Studio
+local.properties
+*.log
+*.hprof
+
+# Android
+app/build/
+**/build/
+
+# Generated
+.gradle/
+/build/
+/caches/
+
+# misc
+.DS_Store
+*.apk
+*.ap_
+
+# Kotlin/Java
+*.class
+*.jar
+*.war
+*.ear
+*.nar
+*.zip
+*.tar.gz
+*.rar
+
+# Android specific
+.externalNativeBuild
+.cxx
+
+# NDK
+obj/
+
+# Proguard
+proguard/**
+
+# Google Services
+google-services.json
+
+# keystore
+*.jks
+*.keystore
+
+# Log
+*.log
+
+# IntelliJ
+out/
